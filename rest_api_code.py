@@ -7,10 +7,12 @@ import requests
 
 # What is the base (sometimes called end-point) URL for the queries?
 # Example: BASE_URL_FOR_APIS = 'https://api.themoviedb.org/3/trending/movie/week?'
-BASE_URL_FOR_APIS = ''
+BASE_URL_FOR_APIS = 'https://api.openbrewerydb.org/v1/breweries/'
+TEXAS_BREWERIES_QUERY = '?by_state=texas'
+TEXAS_BREWERIES_URL = BASE_URL_FOR_APIS + TEXAS_BREWERIES_QUERY
 
 response = requests.get(
-    BASE_URL_FOR_APIS,
+    TEXAS_BREWERIES_URL,
      params={
          # The following are examples and should be replaced with your params.
         'key1': 'value1',
@@ -21,7 +23,18 @@ response = requests.get(
 # Encodes response into a python json dictionary 
 json_data = response.json()
 
+print(f"{'Brewery':<40}{'City':<25}{'Type':<15}")
+print('-' * 80)
+
+
+for brewery in json_data:
+    brewery_name = brewery.get("name", "N/A")
+    city = brewery.get("city", "N/A")
+    brewery_type = brewery.get("brewery_type", "N/A").capitalize()
+
+    print(f"{brewery_name:<40}{city:<25}{brewery_type:<15}")
+
 # Convert json_data to a formatted pretty
 # json string that is easy for humans to read.
-pretty_json_data = json.dumps(json_data, indent=4, sort_keys=True)
-print(pretty_json_data)
+#pretty_json_data = json.dumps(json_data, indent=4, sort_keys=True)
+#print(pretty_json_data)
