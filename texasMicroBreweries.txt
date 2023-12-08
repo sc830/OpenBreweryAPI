@@ -1,0 +1,198 @@
+Brewery                                 City                     Type
+--------------------------------------------------------------------------------
+(512) Brewing Co                        Austin                   Micro
+11 Below Brewing Company                Houston                  Micro
+3 Nations Brewing                       Farmers Branch           Micro
+4J Brewing Company                      Houston                  Micro
+4th Tap Brewing Cooperative             Austin                   Micro
+5 Stones Artisan Brewery                New Braunfels            Micro
+8th Wonder Brewery                      Houston                  Micro
+903 Brewers                             Sherman                  Micro
+Acopon Brewing Co                       Dripping Springs         Micro
+Adelbert's Brewery LLC                  Austin                   Micro
+Alamo Beer Co                           San Antonio              Micro
+Altmeyer and Lewis Brewing Company      San Marcos               Micro
+Altstadt Brewery                        Fredericksburg           Micro
+Armadillo Ale Works                     Denton                   Micro
+Astral Brewing                          Houston                  Micro
+B and J's Handcrafted Texas Ales        Corpus Christi           Micro
+B-52 Brewing                            Conroe                   Micro
+B-CS  Zoigl Brewery                     Bryan                    Micro
+Baa Baa Brewhouse                       Brookshire               Micro
+Back Pew Brewing                        Porter                   Micro
+Back Unturned Brewing Co.               San Antonio              Micro
+Baileson Brewing Company, LLC           Houston                  Micro
+BAKFISH Brewing Company                 Pearland                 Micro
+Bandera Ale Project, LLC                Bandera                  Micro
+Bare Arms Brewing                       Waco                     Micro
+Barking Armadillo Brewing               Georgetown               Micro
+Barrow Brewing Company                  Salado                   Micro
+Basement Brewers of Texas               Kerrville                Micro
+Bearded Fox Brewing Co.                 Tomball                  Micro
+Beerfoot Beach Bar                      Galveston                Micro
+Big Bend Brewing Co                     Alpine                   Micro
+Big River Brewery, LLC                  Pharr                    Micro
+Bitter Sisters Brewing Company          Addison                  Micro
+Black Laboratory Breing                 San Antonio              Micro
+Black Page Brewing Co.                  Houston                  Micro
+Blazing Tree Brewery                    El Paso                  Micro
+Blue Owl Brewing                        Austin                   Micro
+Bluebonnet Beer Co                      Round Rock               Micro
+Boerne Brewery                          Boerne                   Micro
+Brash                                   Houston                  Micro
+Brazos Valley Brewing Company           Brenham                  Micro
+Brigadoon Brewery & Brew School         Pasadena                 Micro
+Brotherwell Brewing                     Waco                     Micro
+BS Brewing                              Seguin                   Micro
+Buffalo Bayou Brewing Co                Houston                  Micro
+Busted Sandal Brewing Company           San Antonio              Micro
+Cactus Land Brewing Company             Adkins                   Micro
+Caracara Brewing Company                Lockhart                 Micro
+Celis Brewery                           Austin                   Micro
+Central Machine Works                   Austin                   Micro
+Circle Brewing Company                  Austin                   Micro
+Copperhead Brewery                      Conroe                   Micro
+Cycler's Brewing                        Montgomery               Micro
+Cypress Creek Southern Ales             Winnsboro                Micro
+Denton County Brewing Company           Denton                   Micro
+Devil and the Deep                      Galveston                Micro
+Dirty Job Brewing                       Mansfield                Micro
+Division Brewing                        Arlington                Micro
+Dorcol Distilling and Brewing CO        San Antonio              Micro
+Draught House Pub and Brewery           Austin                   Micro
+El Paso Brewing Company                 El Paso                  Micro
+Elder Son Brewing Co.                   Houston                  Micro
+Equal Parts Brewing                     Houston                  Micro
+ETX Brewing Co.                         Tyler                    Micro
+Eureka Heights Brewing Company          Houston                  Micro
+Family Business Beer Company            Dripping Springs         Micro
+Faust Hotel Restaurant and Brew Pub     New Braunfels            Micro
+Fetching Lab Brewing Co.                Alvin                    Micro
+Flix Brewhouse                          Round Rock               Micro
+Flix Brewhouse - Frisco/Little Elm      Frisco                   Micro
+Flying Man Brewing Company              Austin                   Micro
+Four Bullets Brewery                    Richardson               Micro
+Four Corners Brewing Co                 Dallas                   Micro
+Four Corners Brewing Co                 Dallas                   Micro
+Franconia Brewing Co                    McKinney                 Micro
+Fredonia Brewery, LLC                   Nacogdoches              Micro
+Freetail Brewing Co                     San Antonio              Micro
+Friends and Allies Brewing Company      Austin                   Micro
+Frontyard Brewing                       Austin                   Micro
+Frost Town Brewing                      Houston                  Micro
+Fulbrook Ale Works                      Richmond                 Micro
+Galactic Coast Brewing                  Dickinson                Micro
+Galveston Bay Beer Company, Inc.        Dickinson                Micro
+Galveston Island Brewing                Galveston                Micro
+Goliad Brewing Company                  Goliad                   Micro
+Good Neighbor Brews                     Wylie                    Micro
+Great Heights Brewing Company           Houston                  Micro
+Guadalupe Brewery                       Canyon Lake              Micro
+Hemisphere Brewing Co                   Rockwall                 Micro
+Hi Sign Brewing                         Austin                   Micro
+Hold Out Brewing                        Austin                   Micro
+Holler Brewing Company                  Houston                  Micro
+Hop And Sting Brewing Company           Farmers Branch           Micro
+Hopfusion Ale Works                     Fort Worth               Micro
+Hops & Grain Brewing                    Austin                   Micro
+Horny Toad Brewing Co, LLC              Rowena                   Micro
+Huff Brewing Company, LLC               Bellville                Micro
+Idle Vine Brewing Company               Round Rock               Micro
+Infamous Brewing                        Austin                   Micro
+Ingenious Brewing Company               Humble                   Micro
+Islla Street Brewing Company            San Antonio              Micro
+Ivanhoe Aleworks                        Denison                  Micro
+Jester King Brewery                     Austin                   Micro
+Kinematic Brewing Company               Boerne                   Micro
+Lake Austin Ales                        Cedar Park               Micro
+Lakewood Brewing Co                     Garland                  Micro
+Landon Winery                           Greenville               Micro
+Last Stand Brewing Company              Austin                   Micro
+Lazy Beach Brewing                      Corpus Christi           Micro
+Lazy Tree Ranch Brewing                 Bertram                  Micro
+Legal Draft Beer Company                Arlington                Micro
+Lone Pint Brewery                       Magnolia                 Micro
+Long Wooden Spoon Brewing               Amarillo                 Micro
+Longtab Brewing Company LLC             San Antonio              Micro
+Lorelei Brewing Co                      Corpus Christi           Micro
+Martin House Brewing Company            Fort Worth               Micro
+Middleton Brewing (MBTX)                San Marcos               Micro
+New Braunfels Brewing                   New Braunfels            Micro
+New Magnolia Brewing Co                 Houston                  Micro
+New Republic Brewing                    College Station          Micro
+Nine Band Brewing Co.                   Allen                    Micro
+NLand Brewing Company                   del Valle                Micro
+No Label Brewing Co                     Katy                     Micro
+Noble Rey Brewing Company               Dallas                   Micro
+Nomadic Beerworks                       Austin                   Micro
+O'Neil & Sons Brewing Company           Port Lavaca              Micro
+Oak Highlands Brewery                   Dallas                   Micro
+Oasis Texas Brewing Company             Austin                   Micro
+Oil Horse Brewing Company               Longview                 Micro
+Old Town Brewhouse                      Lewisville               Micro
+On Rotation Brewery                     Dallas                   Micro
+Orf Brewing                             Austin                   Micro
+Oskar Blues Brewery                     Austin                   Micro
+Panther Island Brewing Company          Fort Worth               Micro
+Pappy Slokum Brewing Co.                Abilene                  Micro
+Pegasus City Brewery                    Dallas                   Micro
+Peticolas Brewing Co                    Dallas                   Micro
+Rabbit Hole Brewing                     Justin                   Micro
+Rabble-Rouser Brewing Company           Mcallen                  Micro
+Railport Brewing Company                Waxahachie               Micro
+Ranger Creek Brewery                    San Antonio              Micro
+Rebel Toad Brewing Co                   Corpus Christi           Micro
+Red Gap Brewing                         Cisco                    Micro
+Rentsch Brewery                         Georgetown               Micro
+Roadmap Brewing Co                      San Antonio              Micro
+Rough Diamond Brewery                   Spring Branch            Micro
+Ruba Brewing                            Houston                  Micro
+Ruggedman Brewing Company               New Braunfels            Micro
+Running Walker Brewery & Braman Winery  Richmond                 Micro
+San Gabriel River Brewery Inc           Liberty Hill             Micro
+Save the World Brewing Co               Marble Falls             Micro
+Seguin Brewing Company                  Seguin                   Micro
+Shannon Brewing Company, LLC            Keller                   Micro
+Sigma Brewing Company                   Houston                  Micro
+Skull Mechanix Brewing                  Austin                   Micro
+Sockdolager Brewing Company             Abilene                  Micro
+Solid Rock Brewing                      Spicewood                Micro
+South Austin Brewery                    Austin                   Micro
+Southern Heights Brewing Co LLC         Austin                   Micro
+Southern Star Brewing                   Conroe                   Micro
+Spindletap Brewery                      Houston                  Micro
+St. Elmo Brewing Company                Austin                   Micro
+Stesti Brewing Company                  Lovelady                 Micro
+Strange Land Brewery                    Austin                   Micro
+Suds Monkey Brewing                     Dripping Springs         Micro
+Texas Ale Project                       Dallas                   Micro
+Texas Beer Company                      Taylor                   Micro
+Texas Beer Company                      Taylor                   Micro
+Texas Beer Refinery                     Dickinson                Micro
+Texas Leaguer Brewing Company           Missouri City            Micro
+The Brewer's Table                      Austin                   Micro
+The Collective Brewing Project          Fort Worth               Micro
+The Manhattan Project Beer Company      Addison                  Micro
+The Plains Brewing Company              Lubbock                  Micro
+Thirsty Bro Brewing                     Royse City               Micro
+Thirsty Planet Brewing Co               Austin                   Micro
+Thousand Oaks Brewing Co.               Cedar Park               Micro
+TKO Libations                           Lewisville               Micro
+Town In City Brewing Co, LLC            Houston                  Micro
+True Anomaly Brewing                    Houston                  Micro
+True Vine Brewing Company               Tyler                    Micro
+Tupps Brewery                           McKinney                 Micro
+Turkey Forrest Brewing                  Houston                  Micro
+Turning Point Beer, LLC                 Bedford                  Micro
+Twin Peaks Brewery                      Irving                   Micro
+Twisted X Brewing Co                    Dripping Springs         Micro
+Two Wheel Brewing Company               Buda                     Micro
+Uncle Billy's Brewery                   Austin                   Micro
+Under The Radar Brewery                 Houston                  Micro
+Vallensons Brewing Co.                  Pearland                 Micro
+Whitestone Brewery                      Cedar Park               Micro
+Whole Foods Market Brewing Company      Houston                  Micro
+Wichita Falls Brewing Co.               Wichita Falls            Micro
+Wild Acre Brewing Company               Fort Worth               Micro
+Woodcreek Brewing Company               Rockwall                 Micro
+Zilker Brewing Co                       Austin                   Micro
