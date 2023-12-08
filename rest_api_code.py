@@ -31,8 +31,8 @@ for brewery in json_data:
     brewery_name = brewery.get("name", "N/A")
     city = brewery.get("city", "N/A")
     brewery_type = brewery.get("brewery_type", "N/A").capitalize()
-    if brewery_type == "Micro":
-        print(f"{brewery_name:<40}{city:<25}{brewery_type:<15}")
+
+    print(f"{brewery_name:<40}{city:<25}{brewery_type:<15}")
 
 # Convert json_data to a formatted pretty
 # json string that is easy for humans to read.
