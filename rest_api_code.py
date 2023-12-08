@@ -9,10 +9,13 @@ import requests
 # Example: BASE_URL_FOR_APIS = 'https://api.themoviedb.org/3/trending/movie/week?'
 BASE_URL_FOR_APIS = 'https://api.openbrewerydb.org/v1/breweries/'
 TEXAS_BREWERIES_QUERY = '?by_state=texas'
-TEXAS_BREWERIES_URL = BASE_URL_FOR_APIS + TEXAS_BREWERIES_QUERY
+MICRO_BREWERY_QUERY = '&by_type=micro'
+PER_PAGE_QUERY = '&per_page=3'
+
+TEXAS_MICROBREWERIES_URL = BASE_URL_FOR_APIS + TEXAS_BREWERIES_QUERY + MICRO_BREWERY_QUERY + PER_PAGE_QUERY
 
 response = requests.get(
-    TEXAS_BREWERIES_URL,
+    TEXAS_MICROBREWERIES_URL,
      params={
          # The following are examples and should be replaced with your params.
         'key1': 'value1',
